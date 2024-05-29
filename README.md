@@ -1,6 +1,6 @@
 # Security-Testing
 
-Conduct scan for Web security with ZMAP
+Conduct scan for Web security with ZAP
 ![ALERTS](https://github.com/shakil42/Security-Testing/assets/56649260/c2b099e6-9d24-4adf-bb6d-75d460e5f912)
 
 
